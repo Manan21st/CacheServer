@@ -87,4 +87,8 @@ The cache server is designed to work optimally on both Unix-based systems (Linux
 
 ---
 
+AI was used to help write the Readme and comments in code
+
+---
+
 Made with ❤️ by Manan
